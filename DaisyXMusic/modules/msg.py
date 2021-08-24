@@ -21,15 +21,15 @@ from DaisyXMusic.config import PROJECT_NAME
 from DaisyXMusic.config import SUPPORT_GROUP
 from DaisyXMusic.config import UPDATES_CHANNEL
 class Messages():
-      START_MSG = "**Hello 👋 [{}](tg://user?id={})!**\n\n🤖 I am an advanced bot created for playing music in the voice chats of Telegram Groups & Channels.\n\n✅ Send me /help for more info."
+      START_MSG = "**Hello 👋 [{}](tg://user?id={})!**\n\n🤖 I am SHAGGY MUSIC PLAYER bot. created for playing music in the voice chats of Telegram Groups & Channels by SL MEADIA TECH.\n\n✅ Send me /help for more info."
       HELP_MSG = [
         ".",
 f"""
-**Hey 👋 Welcome back to {PROJECT_NAME}
+**Hey 👋 Welcome back to {SHAGGY MUSIC PLAYER}
 
-⚪️ {PROJECT_NAME} can play music in your group's voice chat as well as channel voice chats
+⚪️ {SHAGGY MUSIC PLAYER} can play music in your group's voice chat as well as channel voice chats
 
-⚪️ Assistant name >> @{ASSISTANT_NAME}\n\nClick next for instructions**
+⚪️ Assistant name >> @{SHAGGY MUSIC PLAYER ASSISTANT}\n\nClick next for instructions**
 """,
 
 f"""
@@ -38,7 +38,7 @@ f"""
 1) Make bot admin (Group and in channel if use cplay)
 2) Start a voice chat
 3) Try /play [song name] for the first time by an admin
-*) If userbot joined enjoy music, If not add @{ASSISTANT_NAME} to your group and retry
+*) If userbot joined enjoy music, If not add @{SHAGGY MUSIC PLAYER ASSISTANT} to your group and retry
 
 **For Channel Music Play**
 1) Make me admin of your channel 
@@ -94,7 +94,7 @@ channel is also can be used instead of c ( /cplay = /channelplay )
 1) Get your channel ID.
 2) Create a group with tittle: Channel Music: your_channel_id
 3) Add bot as Channel admin with full perms
-4) Add @{ASSISTANT_NAME} to the channel as an admin.
+4) Add @{SHAGGY MUSIC PLAYER ASSISTANT} to the channel as an admin.
 5) Simply send commands in your group. (remember to use /ytplay instead /play)
 """,
 
@@ -103,7 +103,7 @@ f"""
 
 - /musicplayer [on/off]: Enable/Disable Music player
 - /admincache: Updates admin info of your group. Try if bot isn't recognize admin
-- /userbotjoin: Invite @{ASSISTANT_NAME} Userbot to your chat
+- /userbotjoin: Invite @{SHAGGY MUSIC PLAYER ASSISTANT} Userbot to your chat
 """,
 f"""
 **=>> Song Download 🎸**
