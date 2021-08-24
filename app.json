@@ -1,7 +1,7 @@
 {
-  "name": "DaisyXMusic",
-  "logo": "https://telegra.ph/file/36ff1b571aa11df5812de.jpg",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+  "name": "SHAGGY GROUP MUSIC PLAYER",
+  "logo": "https://telegra.ph/file/795482723c8accc2cf623.jpg",
+  "description": "A Powerful Group Music Player Bot By SL MEADIA TECH.",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/TeamDaisyX/DaisyXMusic",
   "stack": "heroku-20",
