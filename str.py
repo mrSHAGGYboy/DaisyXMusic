@@ -2,7 +2,7 @@ import asyncio
 
 from pyrogram import Client
 
-print("Enter your app information from my.telegram.org/apps below.")
+print("This Is A Powerful Group Music Player Bot By Sl Meadia Tech")
 
 
 async def main():
